@@ -4,7 +4,7 @@ My eventual goal for this project is to make a comprehensive data scrapper for F
 
 I am using this as a way to practice HTML scraping and python data manipulation.
 
-Currenly, it will scrape Gregory Polanco's page and import his standard statistics into an SQLite database
+Currently, it will scrape Gregory Polanco's page and import his standard statistics into an SQLite database
 
 # Set up environment
 
@@ -15,7 +15,7 @@ cd mlb_stat_viewer
 
 python3 -m venv .
 
-source ./bin
+source ./bin/activate
 
 pip3 install -r requirements.txt
 ```
