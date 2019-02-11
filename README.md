@@ -2,7 +2,7 @@
 
 My eventual goal for this project is to make a comprehensive data scrapper for Fangraphs.
 
-I am using this as a way to practice HTML scrapping and python data manipulation.
+I am using this as a way to practice HTML scraping and python data manipulation.
 
 Currenly, it will scrape Gregory Polanco's page and import his standard statistics into an SQLite database
 
